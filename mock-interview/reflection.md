@@ -1,15 +1,11 @@
 # Reflection — STAR
 
-**Situation:** Describe the context (e.g., course activity, event, or project).  
-**Task:** State what you needed to achieve or demonstrate.  
-**Action:** Explain the specific steps, methods, or tools you used.  
-**Result:** Summarize the outcome — what happened, and what you learned.
+**Situation:** At school we were tasked to do a mock interview view, where we had to dress formal and do a video of ourselves in a interview.  
+**Task:** Wanted to familiarise myself with the interview environment.  
+**Action:** Had to create interview questions, then create a video answering those questions.
+**Result:** I did the videon and got 100/100 for the video
 
 **Skills demonstrated:**  
 - Communication  
 - Problem-solving  
 - Professional conduct  
-
-**Connection to other artefacts:** This learning supports other areas such as teamwork, professionalism, and communication.
-
-**Next step:** Define one SMART goal to continue improving.
