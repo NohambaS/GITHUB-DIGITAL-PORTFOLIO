@@ -1,15 +1,11 @@
 # Reflection — STAR
 
-**Situation:** Describe the context (e.g., course activity, event, or project).  
-**Task:** State what you needed to achieve or demonstrate.  
-**Action:** Explain the specific steps, methods, or tools you used.  
-**Result:** Summarize the outcome — what happened, and what you learned.
+**Situation:** I was given a formative assesment at school to create interview questions.  
+**Task:** I had to learn about questions asked in a interview and how to ask them  
+**Action:** I had to create the questions the narrow them down to a number of questions then submit them on blackboard.  
+**Result:** I got 100/100 for the formative assessment.
 
 **Skills demonstrated:**  
 - Communication  
 - Problem-solving  
-- Professional conduct  
-
-**Connection to other artefacts:** This learning supports other areas such as teamwork, professionalism, and communication.
-
-**Next step:** Define one SMART goal to continue improving.
+- Professional conduct
