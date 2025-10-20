@@ -5,7 +5,5 @@
 **Action:** I had to create the questions the narrow them down to a number of questions then submit them on blackboard.  
 **Result:** I got 100/100 for the formative assessment.
 
-**Skills demonstrated:**  
-- Communication  
-- Problem-solving  
+**Skills demonstrated:**   
 - Professional conduct
